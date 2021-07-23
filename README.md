@@ -1,2 +1,2 @@
 # cardinal
-Sign-in app written in Swift for St. Andrew's School
+Official iOS app @ https://standrews-de.org for signing-in students
